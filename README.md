@@ -7,3 +7,5 @@ The first train time and frequency in minutes that the train runs.
 A cool feature to check-out is the clock, which is pegged to the current time, and which is used to calculate the next train.
 
 See it here: https://mikes94116.github.io/nextTrain/
+
+![](https://raw.githubusercontent.com/mikes94116/nextTrain/master/NextTrain.png)
